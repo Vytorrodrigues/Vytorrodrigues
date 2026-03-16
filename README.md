@@ -30,15 +30,14 @@ Atualmente focado em dominar o ecossistema JavaScript e construir aplicações m
 
 ### 📊 Estatísticas do GitHub
 
-![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=Vytorrodrigues&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Vytorrodrigues&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-[![( LinkedIn]()]
-(https://br.linkedin.com/in/vytor-rodrigues-390257356)
+[![( LinkedIn](https://br.linkedin.com/in/vytor-rodrigues-390257356)]
 
 ---
 
