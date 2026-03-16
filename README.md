@@ -37,7 +37,8 @@ Atualmente focado em dominar o ecossistema JavaScript e construir aplicações m
 
 ### 📫 Vamos nos conectar?
 
-[![( LinkedIn](https://br.linkedin.com/in/vytor-rodrigues-390257356)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU-PERFIL-AQUI](https://br.linkedin.com/in/vytor-rodrigues-390257356))
+
 
 ---
 
