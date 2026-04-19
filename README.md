@@ -28,7 +28,7 @@ Atualmente focado em dominar o ecossistema JavaScript e construir aplicações m
 
 ### 📦 Deploys
 
-![Lista de Pedidos](https://vytorrodrigues.github.io/Lista-de-Pedidos-Churrascaria/)
+(https://vytorrodrigues.github.io/Lista-de-Pedidos-Churrascaria/)
 
 ### 📫 Vamos nos conectar?
 
